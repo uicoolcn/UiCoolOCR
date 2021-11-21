@@ -16,7 +16,31 @@
 
 优爱酷使用AI技术将无比庞大的文字识别功能从网络端，轻量化到桌面端，本地化OCR识别库，本地识别文字，使您无需顾虑涉密信息或隐私数据的泄露。
 
-  :calendar: **更新日志 ** 
+:tv:  **视频教程 ** 
+
+[动态OCR](https://gitee.com/uicoolcn/UiCoolOCR/attach_files/808990/download/%E5%8A%A8%E6%80%81OCR20210822.mp4)
+
+[场景表格化](https://gitee.com/uicoolcn/UiCoolOCR/attach_files/802467/download/%E5%9C%BA%E6%99%AF%E8%A1%A8%E6%A0%BC%E5%8C%96OCR%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.mp4)
+
+[入门教程](https://gitee.com/uicoolcn/UiCoolOCR/attach_files/788806/download/%E4%BC%98%E7%88%B1%E9%85%B7OCR%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.mp4)
+
+
+[运行环境安装](https://gitee.com/uicoolcn/UiCoolOCR/attach_files/757064/download/VC_redist.x64_%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E8%A7%86%E9%A2%91.mp4)
+
+
+
+:calendar: **更新日志 **
+
+:white_check_mark: 【2021-11-21】
+增加日志功能；优化功能。
+
+:white_check_mark: 【2021-10-07】
+增加并行任务功能，VIP尊享版支持最多同时并行处理40项任务，速度看到见，提升速度40倍。
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1007/165824_910c149c_5004363.gif "并行多任务.gif")
+
+:white_check_mark: 【2021-09-21】
+增加日志功能；VIP尊享版增加Excel来源备注。
 
  :white_check_mark: 【2021-08-22】
 
@@ -127,7 +151,10 @@
 #### 安装教程
 
 1.  从发行版 https://gitee.com/uicoolcn/UiCoolOCR/releases 选择自己需要的版本
-2.  绿色软件，解压缩后即可运行“优爱酷批量图像文字识别系统(OCR).exe” 
+
+![勾选解除锁定](https://images.gitee.com/uploads/images/2021/1118/143100_75084125_5004363.jpeg "勾选解除锁定.jpg")
+
+2.  绿色软件，解压缩后即可右键“以管理员权限运行”，运行“优爱酷批量图像文字识别系统(OCR).exe” 
 3.  即可开始使用
 
 
