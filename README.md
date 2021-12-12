@@ -31,6 +31,16 @@
 
 :calendar: **更新日志 **
 
+:white_check_mark: 【2021-12-12】
+ 增加[定制OCR提取字段]，支持用户自定义识别模板，指定需要文字识别的关键字段，实现用户特定格式图片的自动化文字识别和结构化提取；
+
+优化定制OCR裁剪分区功能编辑器。
+
+![OCR定制](https://gitee.com/uicoolcn/UiCoolOCR/raw/master/%E5%BF%AB%E7%85%A71.png "并行多任务.gif")
+
+![定制OCR提取字段](https://gitee.com/uicoolcn/UiCoolOCR/raw/master/%E5%BF%AB%E7%85%A72.png "并行多任务.gif")
+![定制OCR裁剪分区](https://gitee.com/uicoolcn/UiCoolOCR/raw/master/%E5%BF%AB%E7%85%A73.png "并行多任务.gif")
+
 :white_check_mark: 【2021-11-21】
 增加日志功能；优化功能。
 
