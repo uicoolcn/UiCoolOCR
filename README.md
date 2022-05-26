@@ -163,10 +163,22 @@
 
 1.  从发行版 https://gitee.com/uicoolcn/UiCoolOCR/releases 选择自己需要的版本
 
+
+http://www.uicool.cn/UiCoolOCR/update/UiCoolOCRV20.22.0523.zip 
+
+视频教程（WX关注【优爱酷】回复“优爱酷OCR”可查看相关视频，也可从下方复制链接下载观看）： 
+
+https://www.aliyundrive.com/s/U5JPj3vNgjC
+
+
 ![勾选解除锁定](https://images.gitee.com/uploads/images/2021/1118/143100_75084125_5004363.jpeg "勾选解除锁定.jpg")
 
 2.  绿色软件，解压缩后即可右键“以管理员权限运行”，运行“优爱酷批量图像文字识别系统(OCR).exe” 
 3.  即可开始使用
+
+
+
+
 
 
 #### 运行环境
